@@ -1,0 +1,15 @@
+---
+title: "HelloWorld"
+author: "Refo"
+date: "5/28/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum neque vitae leo auctor lacinia. Phasellus eu sagittis metus, quis placerat orci. Suspendisse potenti. Donec a ante at est bibendum feugiat eget vitae lorem. Curabitur vel mi vel nisi laoreet posuere a quis sem. Nullam vestibulum fringilla eros non pellentesque. Quisque eget vestibulum dolor, ut varius ligula. Mauris condimentum mi at libero dapibus, nec lacinia tellus fermentum. Suspendisse potenti. Quisque auctor tristique lorem id sodales. Nunc nibh eros, dignissim nec efficitur ac, auctor in justo. Sed in sodales leo, non condimentum enim. Donec elementum erat erat, dictum ultrices turpis bibendum vitae. Vestibulum commodo dignissim nibh non posuere.
+
